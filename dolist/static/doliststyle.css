@@ -22,6 +22,7 @@
   border: solid gray 1px;
   width: 400px;
 }
+.btnadd{background-color: olive;}
 .btnadd, .btn_deleteall, .btn_deleteeach{
     background-color: crimson;
     border: none;
@@ -29,7 +30,6 @@
     border-radius: 5px;
     color: whitesmoke;
 }
-.btnadd{background-color: olive;}
 .btn_deleteall:hover, .btn_deleteeach:hover{
     background-color: darkred;
     font-weight: bolder;
